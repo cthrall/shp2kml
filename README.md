@@ -8,4 +8,4 @@ You'll need to pip install the following Python packages:
 * lxml
 * pykml
 
-Usage: python shp2kml.py <shp file> <dbf file>
+Usage: python shp2kml.py shp_file dbf_file
